@@ -1,7 +1,2 @@
-def multiply():
-    a = 7
-    b = 2
-
-    print(a*b)
-
-multiply()
+for i in range (10):
+    print(i)
